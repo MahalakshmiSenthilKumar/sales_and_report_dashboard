@@ -88,7 +88,7 @@ This project demonstrates practical skills in **Excel, data analysis, Pivot Tabl
 
 **Mahalakshmi Senthilkumar**
 
-GitHub: Add your GitHub profile link here  
+
 LinkedIn: www.linkedin.com/in/mahalakshmi-senthilkumar-20b228308
 
 ---
